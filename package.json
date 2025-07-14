@@ -2,7 +2,7 @@
   "name": "app-pizza",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://lesiaperebyinis.github.io/app-pizza",
+  "homepage": "https://lesiaperebyinis.github.io/app-pizza/",
   "dependencies": {
     "@reduxjs/toolkit": "^2.7.0",
     "@testing-library/dom": "^10.4.0",
