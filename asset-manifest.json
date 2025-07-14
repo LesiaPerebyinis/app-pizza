@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/app-pizza/static/css/main.bf9613b1.css",
-    "main.js": "/app-pizza/static/js/main.714d7cd5.js",
+    "main.js": "/app-pizza/static/js/main.e784a4f6.js",
     "index.html": "/app-pizza/index.html",
     "main.bf9613b1.css.map": "/app-pizza/static/css/main.bf9613b1.css.map",
-    "main.714d7cd5.js.map": "/app-pizza/static/js/main.714d7cd5.js.map"
+    "main.e784a4f6.js.map": "/app-pizza/static/js/main.e784a4f6.js.map"
   },
   "entrypoints": [
     "static/css/main.bf9613b1.css",
-    "static/js/main.714d7cd5.js"
+    "static/js/main.e784a4f6.js"
   ]
 }
