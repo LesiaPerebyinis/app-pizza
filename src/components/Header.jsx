@@ -12,7 +12,7 @@ function Header() {
       <div className="container">
         <nav className="nav-row">
           <div className="nav-list">
-            <img className="logo" src="./../img/logo2.png" alt="logo-pizza" />
+            <img className="logo" src="img/logo2.png" alt="logo-pizza" />
             <NavLink className="nav-link" to="/">
               Головна
             </NavLink>
